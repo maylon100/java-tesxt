@@ -8,5 +8,7 @@ body{
     span{
         background-color: rgb(255, 8, 234);
 }
-    
+#dias_restantes{
+    color: rgb(153, 8, 8);
+    font-size: 50px;   
 }
