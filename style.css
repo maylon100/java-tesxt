@@ -5,8 +5,8 @@ body{
     background-color: black;
     color: rgb(235, 235, 235);
     text-align: center;
-    h1 span{
-        counter-reset: pink;
+    span{
+        background-color: rgb(255, 8, 234);
 }
     
 }
